@@ -1,0 +1,30 @@
+D:\Програмирование\digger.csproj\bin\Debug\Images\Digger.png
+D:\Програмирование\digger.csproj\bin\Debug\Images\Gold.png
+D:\Програмирование\digger.csproj\bin\Debug\Images\Monster.png
+D:\Програмирование\digger.csproj\bin\Debug\Images\Sack.png
+D:\Програмирование\digger.csproj\bin\Debug\Images\Terrain.png
+D:\Програмирование\digger.csproj\bin\Debug\11-digger.exe.config
+D:\Програмирование\digger.csproj\bin\Debug\11-digger.exe
+D:\Програмирование\digger.csproj\bin\Debug\11-digger.pdb
+D:\Програмирование\digger.csproj\bin\Debug\nunit.framework.dll
+D:\Програмирование\digger.csproj\obj\Debug\Digger.csprojResolveAssemblyReference.cache
+D:\Програмирование\digger.csproj\obj\Debug\Digger.Properties.Resources.resources
+D:\Програмирование\digger.csproj\obj\Debug\Digger.csproj.GenerateResource.Cache
+D:\Програмирование\digger.csproj\obj\Debug\Digger.csproj.CoreCompileInputs.cache
+D:\Програмирование\digger.csproj\obj\Debug\11-digger.exe
+D:\Програмирование\digger.csproj\obj\Debug\11-digger.pdb
+D:\Програмирование\Модуль С# 1 семестр\digger.csproj\bin\Debug\Images\Digger.png
+D:\Програмирование\Модуль С# 1 семестр\digger.csproj\bin\Debug\Images\Gold.png
+D:\Програмирование\Модуль С# 1 семестр\digger.csproj\bin\Debug\Images\Monster.png
+D:\Програмирование\Модуль С# 1 семестр\digger.csproj\bin\Debug\Images\Sack.png
+D:\Програмирование\Модуль С# 1 семестр\digger.csproj\bin\Debug\Images\Terrain.png
+D:\Програмирование\Модуль С# 1 семестр\digger.csproj\bin\Debug\11-digger.exe.config
+D:\Програмирование\Модуль С# 1 семестр\digger.csproj\bin\Debug\11-digger.exe
+D:\Програмирование\Модуль С# 1 семестр\digger.csproj\bin\Debug\11-digger.pdb
+D:\Програмирование\Модуль С# 1 семестр\digger.csproj\bin\Debug\nunit.framework.dll
+D:\Програмирование\Модуль С# 1 семестр\digger.csproj\obj\Debug\Digger.csprojResolveAssemblyReference.cache
+D:\Програмирование\Модуль С# 1 семестр\digger.csproj\obj\Debug\Digger.Properties.Resources.resources
+D:\Програмирование\Модуль С# 1 семестр\digger.csproj\obj\Debug\Digger.csproj.GenerateResource.Cache
+D:\Програмирование\Модуль С# 1 семестр\digger.csproj\obj\Debug\Digger.csproj.CoreCompileInputs.cache
+D:\Програмирование\Модуль С# 1 семестр\digger.csproj\obj\Debug\11-digger.exe
+D:\Програмирование\Модуль С# 1 семестр\digger.csproj\obj\Debug\11-digger.pdb
